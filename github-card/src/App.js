@@ -89,7 +89,7 @@ class App extends React.Component {
             onChange={this.handleChange}
             placeholder="Search username"
           />
-          <button onClick={this.getuserData}>Search</button>
+          <button onClick={this.getUserData}>Search</button>
         </div>
 
         <div className="gitUser">
